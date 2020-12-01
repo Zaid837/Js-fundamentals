@@ -4,9 +4,9 @@
 - It is majorly used because of its advantages of  designing personalized user interfaces
 
 # _Things to consider when picking up a language_
-**Use cases**
-**edge cases**
-**trade offs**
+* Use cases
+* edge cases
+* trade offs
 
 # Javascript fundamentals
 - One thing to know about javascript is that it is a loosely typed language i.e  it does not require a variable to be defined
