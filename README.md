@@ -3,7 +3,7 @@
 - It cuts across almost all categories (mobile, frontend, backend, desktop apps)
 - It is majorly used because of its advantages of  designing personalized user interfaces
 
-_Things to consider when picking up a language_
+# _Things to consider when picking up a language_
 **Use cases**
 **edge cases**
 **trade offs**
