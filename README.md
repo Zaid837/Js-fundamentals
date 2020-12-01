@@ -1,5 +1,5 @@
 # Why Javascript?
->  It is a scripting language that is used vastly  by almost everybody
+> It is a scripting language that is used vastly  by almost everybody
 > It cuts across almost all categories (mobile, frontend, backend, desktop apps)
 > It is majorly used because of its advantages of  designing personalized user interfaces
 
