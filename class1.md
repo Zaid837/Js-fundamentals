@@ -12,3 +12,8 @@
 > One thing to know about javascript is that it is a loosely typed language i.e  it does not require a variable to be defined
 > It is based on functional programming, it is built in function stores in windows global object.
 > Javascript is an unstructured language, variables can be defined implicitly and explicitly.
+
+# Js Variable declarations  (const, var, let)
+
+ # Js control flow
+ > branch- (if, if else, switch) & iterative control flow-(loops)
